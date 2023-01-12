@@ -1,0 +1,7 @@
+{
+    "title": "KeyRepeat",
+    "icon": "favicon.png",
+    "MIN_WIDTH": 500,
+    "MIN_HEIGHT": 100,
+    "pin_to_top": "True"
+}
