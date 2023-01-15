@@ -1,0 +1,10 @@
+do mouse_wait 0.923  
+mouse_press left 0.077 503 712
+do mouse_wait 0.845  
+mouse_press left 0.09 680 651
+do key_wait 4.674  
+key_press e 0.08  
+do mouse_wait 1.535  
+mouse_press left 0.085 588 713
+do key_wait 1.38  
+key_press esc 0.078  

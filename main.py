@@ -1,6 +1,5 @@
-# import time
 import os
-# import threading
+
 import logging
 import json
 
@@ -8,7 +7,12 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter.ttk import Combobox
 
+from pynput.keyboard import Key
+from pynput.keyboard import Listener as KeyboardListener
+
 import config
+import record
+import repeat
 
 # Logging
 
@@ -21,14 +25,12 @@ logging.basicConfig(filename='OUTPUT.log',
 
 logger = logging.getLogger("debug")
 
-# Init
-root = tk.Tk()
+# Settings
 
 def read_json(filename: str, message: str):
     with open(filename, "r", encoding="utf-8") as f:
         logging.info(message)
         return json.loads(f.read())
-
 
 def import_json(filename="config.json"):
     try:
@@ -42,6 +44,9 @@ def import_json(filename="config.json"):
 
 settings = import_json()
 
+# Init
+
+root = tk.Tk()
 root.title(settings["title"])
 
 # Program Icon
@@ -60,8 +65,8 @@ root.geometry(f"{MIN_WIDTH}x{MIN_HEIGHT}")
 # Button Methods
 
 def parse_script_options():
-    logging.info("Fetching Presets")
-    files = [file for file in os.listdir("Scripts") if os.path.isfile(os.path.join("Scripts", file))]
+    logging.info("Fetching Presets.")
+    files = [f for f in os.listdir("Scripts") if os.path.isfile(os.path.join("Scripts", f))]
     return files
 
 repeat_program = tk.IntVar()
@@ -69,16 +74,34 @@ preset_field_text = tk.StringVar()
 scripts = parse_script_options()
 
 def record_program():
-    logging.info("Record Button Pressed")
+    logging.info("Record Button Pressed.")
+    record.start(preset_field_text.get())
 
 def run_program():
-    logging.info("Run Button Pressed")
+    logging.info("Run Button Pressed.")
+    running = False
+    keyboard_listener = KeyboardListener(on_release=on_release)
+    keyboard_listener.start()
+
+    while True:
+        repeat.start(preset_field_text.get())
+        if running is False:
+            keyboard_listener.stop()
+            break
+
+    keyboard_listener.join()
+
+def on_release(key):
+    global running
+    print(key)
+    if key == Key.esc:
+        running = False
 
 def delete_program():
-    logging.info("Delete Button Pressed")
+    logging.info("Delete Button Pressed.")
+    os.remove(f"Scripts/{preset_field_text.get()}")
 
 # Application Methods
-
 def initialise_grid():
     root.columnconfigure(0, weight=1)
     root.columnconfigure(1, weight=1)
@@ -86,7 +109,7 @@ def initialise_grid():
     root.rowconfigure(0, weight=1)
     root.rowconfigure(1, weight=1)
 
-    logging.info("Initialising Grid")
+    logging.info("Initialising Grid.")
 
 def create_buttons():
     preset_field = Combobox(root, textvariable=preset_field_text)
@@ -103,7 +126,7 @@ def create_buttons():
     UIButton(root, "Run", run_program, 1, 1)
     UIButton(root, "Delete", delete_program, 1, 2)
 
-    logging.info("Creating Buttons")
+    logging.info("Creating Buttons.")
 
 class UIButton:
     def __init__(self, window, text: str, command, row: int, column: int):

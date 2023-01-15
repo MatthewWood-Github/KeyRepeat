@@ -1,63 +1,292 @@
-[12/01/2023 14:42:39] :: INFO :: ==| Starting Application |==
-[12/01/2023 14:42:39] :: INFO :: Initialising Grid
-[12/01/2023 14:42:39] :: INFO :: Creating Buttons
-[12/01/2023 14:42:55] :: INFO :: Run Button Pressed
-[12/01/2023 14:57:33] :: INFO :: ==| Starting Application |==
-[12/01/2023 14:57:33] :: INFO :: Initialising Grid
-[12/01/2023 14:57:33] :: INFO :: Creating Buttons
-[12/01/2023 14:57:47] :: INFO :: ==| Starting Application |==
-[12/01/2023 14:57:47] :: INFO :: Initialising Grid
-[12/01/2023 14:57:47] :: INFO :: Creating Buttons
-[12/01/2023 14:57:55] :: INFO :: ==| Starting Application |==
-[12/01/2023 14:57:55] :: INFO :: Initialising Grid
-[12/01/2023 14:57:55] :: INFO :: Creating Buttons
-[12/01/2023 14:57:58] :: INFO :: Record Button Pressed
-[12/01/2023 14:57:59] :: INFO :: Run Button Pressed
-[12/01/2023 14:57:59] :: INFO :: Delete Button Pressed
-[12/01/2023 15:00:14] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:00:14] :: INFO :: Initialising Grid
-[12/01/2023 15:00:29] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:00:29] :: INFO :: Initialising Grid
-[12/01/2023 15:00:29] :: INFO :: Creating Buttons
-[12/01/2023 15:00:55] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:00:55] :: INFO :: Initialising Grid
-[12/01/2023 15:00:55] :: INFO :: Creating Buttons
-[12/01/2023 15:02:09] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:02:09] :: INFO :: Initialising Grid
-[12/01/2023 15:02:09] :: INFO :: Creating Buttons
-[12/01/2023 15:02:35] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:02:35] :: INFO :: Initialising Grid
-[12/01/2023 15:02:35] :: INFO :: Creating Buttons
-[12/01/2023 15:03:31] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:03:31] :: INFO :: Initialising Grid
-[12/01/2023 15:03:31] :: INFO :: Creating Buttons
-[12/01/2023 15:04:30] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:04:30] :: INFO :: Initialising Grid
-[12/01/2023 15:04:39] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:04:39] :: INFO :: Initialising Grid
-[12/01/2023 15:04:39] :: INFO :: Creating Buttons
-[12/01/2023 15:05:15] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:05:15] :: INFO :: Initialising Grid
-[12/01/2023 15:05:15] :: INFO :: Creating Buttons
-[12/01/2023 15:05:38] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:05:38] :: INFO :: Initialising Grid
-[12/01/2023 15:06:15] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:06:15] :: INFO :: Initialising Grid
-[12/01/2023 15:06:20] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:06:20] :: INFO :: Initialising Grid
-[12/01/2023 15:06:20] :: INFO :: Creating Buttons
-[12/01/2023 15:12:11] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:12:11] :: INFO :: Initialising Grid
-[12/01/2023 15:12:11] :: INFO :: Creating Buttons
-[12/01/2023 15:12:18] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:12:18] :: INFO :: Initialising Grid
-[12/01/2023 15:12:18] :: INFO :: Creating Buttons
-[12/01/2023 15:15:23] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:15:23] :: INFO :: Initialising Grid
-[12/01/2023 15:15:23] :: INFO :: Creating Buttons
-[12/01/2023 15:16:13] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:16:13] :: INFO :: Initialising Grid
-[12/01/2023 15:16:13] :: INFO :: Creating Buttons
-[12/01/2023 15:18:54] :: INFO :: ==| Starting Application |==
-[12/01/2023 15:18:54] :: INFO :: Initialising Grid
-[12/01/2023 15:18:54] :: INFO :: Creating Buttons
+[15/01/2023 04:54:38] :: INFO :: Successfully retrieved config.
+[15/01/2023 04:54:38] :: INFO :: Fetching Presets.
+[15/01/2023 04:54:38] :: INFO :: ==| Starting Application |==
+[15/01/2023 04:54:38] :: INFO :: Initialising Grid.
+[15/01/2023 04:54:38] :: INFO :: Fetching Presets.
+[15/01/2023 04:54:38] :: INFO :: Creating Buttons.
+[15/01/2023 04:54:44] :: INFO :: Run Button Pressed.
+[15/01/2023 04:54:44] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:54:44] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:54:44] :: INFO :: Running.
+[15/01/2023 04:55:28] :: INFO :: Successfully retrieved config.
+[15/01/2023 04:55:29] :: INFO :: Fetching Presets.
+[15/01/2023 04:55:29] :: INFO :: ==| Starting Application |==
+[15/01/2023 04:55:29] :: INFO :: Initialising Grid.
+[15/01/2023 04:55:29] :: INFO :: Fetching Presets.
+[15/01/2023 04:55:29] :: INFO :: Creating Buttons.
+[15/01/2023 04:55:30] :: INFO :: Run Button Pressed.
+[15/01/2023 04:55:30] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:55:30] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:55:30] :: INFO :: Running.
+[15/01/2023 04:56:28] :: INFO :: Successfully retrieved config.
+[15/01/2023 04:56:28] :: INFO :: Fetching Presets.
+[15/01/2023 04:56:28] :: INFO :: ==| Starting Application |==
+[15/01/2023 04:56:28] :: INFO :: Initialising Grid.
+[15/01/2023 04:56:28] :: INFO :: Fetching Presets.
+[15/01/2023 04:56:28] :: INFO :: Creating Buttons.
+[15/01/2023 04:56:29] :: INFO :: Run Button Pressed.
+[15/01/2023 04:56:29] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:29] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:29] :: INFO :: Running.
+[15/01/2023 04:56:35] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:35] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:35] :: INFO :: Running.
+[15/01/2023 04:56:42] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:42] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:42] :: INFO :: Running.
+[15/01/2023 04:56:48] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:48] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:56:48] :: INFO :: Running.
+[15/01/2023 04:57:22] :: INFO :: Successfully retrieved config.
+[15/01/2023 04:57:22] :: INFO :: Fetching Presets.
+[15/01/2023 04:57:22] :: INFO :: ==| Starting Application |==
+[15/01/2023 04:57:22] :: INFO :: Initialising Grid.
+[15/01/2023 04:57:22] :: INFO :: Fetching Presets.
+[15/01/2023 04:57:22] :: INFO :: Creating Buttons.
+[15/01/2023 04:57:25] :: INFO :: Run Button Pressed.
+[15/01/2023 04:57:25] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:57:25] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:57:25] :: INFO :: Running.
+[15/01/2023 04:57:31] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:57:31] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:57:31] :: INFO :: Running.
+[15/01/2023 04:57:37] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:57:37] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:57:37] :: INFO :: Running.
+[15/01/2023 04:58:37] :: INFO :: Successfully retrieved config.
+[15/01/2023 04:58:37] :: INFO :: Fetching Presets.
+[15/01/2023 04:58:37] :: INFO :: ==| Starting Application |==
+[15/01/2023 04:58:37] :: INFO :: Initialising Grid.
+[15/01/2023 04:58:37] :: INFO :: Fetching Presets.
+[15/01/2023 04:58:37] :: INFO :: Creating Buttons.
+[15/01/2023 04:58:39] :: INFO :: Run Button Pressed.
+[15/01/2023 04:58:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:58:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:58:39] :: INFO :: Running.
+[15/01/2023 04:58:45] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:58:45] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:58:45] :: INFO :: Running.
+[15/01/2023 04:59:20] :: INFO :: Successfully retrieved config.
+[15/01/2023 04:59:20] :: INFO :: Fetching Presets.
+[15/01/2023 04:59:20] :: INFO :: ==| Starting Application |==
+[15/01/2023 04:59:20] :: INFO :: Initialising Grid.
+[15/01/2023 04:59:20] :: INFO :: Fetching Presets.
+[15/01/2023 04:59:20] :: INFO :: Creating Buttons.
+[15/01/2023 04:59:27] :: INFO :: Run Button Pressed.
+[15/01/2023 04:59:27] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:27] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:27] :: INFO :: Running.
+[15/01/2023 04:59:38] :: INFO :: Run Button Pressed.
+[15/01/2023 04:59:38] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:38] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:38] :: INFO :: Running.
+[15/01/2023 04:59:44] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:44] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:44] :: INFO :: Running.
+[15/01/2023 04:59:50] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:50] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:50] :: INFO :: Running.
+[15/01/2023 04:59:56] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:56] :: INFO :: Successfully parsed inputs.
+[15/01/2023 04:59:56] :: INFO :: Running.
+[15/01/2023 05:00:03] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:00:03] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:00:03] :: INFO :: Running.
+[15/01/2023 05:04:12] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:04:12] :: INFO :: Fetching Presets.
+[15/01/2023 05:04:12] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:04:12] :: INFO :: Initialising Grid.
+[15/01/2023 05:04:12] :: INFO :: Fetching Presets.
+[15/01/2023 05:04:12] :: INFO :: Creating Buttons.
+[15/01/2023 05:04:18] :: INFO :: Run Button Pressed.
+[15/01/2023 05:04:18] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:04:18] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:04:18] :: INFO :: Running.
+[15/01/2023 05:05:10] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:05:10] :: INFO :: Fetching Presets.
+[15/01/2023 05:05:10] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:05:10] :: INFO :: Initialising Grid.
+[15/01/2023 05:05:10] :: INFO :: Fetching Presets.
+[15/01/2023 05:05:10] :: INFO :: Creating Buttons.
+[15/01/2023 05:05:12] :: INFO :: Run Button Pressed.
+[15/01/2023 05:05:12] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:12] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:12] :: INFO :: Running.
+[15/01/2023 05:05:29] :: INFO :: Run Button Pressed.
+[15/01/2023 05:05:29] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:29] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:29] :: INFO :: Running.
+[15/01/2023 05:05:35] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:35] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:35] :: INFO :: Running.
+[15/01/2023 05:05:41] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:41] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:41] :: INFO :: Running.
+[15/01/2023 05:05:48] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:48] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:48] :: INFO :: Running.
+[15/01/2023 05:05:54] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:54] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:05:54] :: INFO :: Running.
+[15/01/2023 05:06:59] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:06:59] :: INFO :: Fetching Presets.
+[15/01/2023 05:06:59] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:06:59] :: INFO :: Initialising Grid.
+[15/01/2023 05:06:59] :: INFO :: Fetching Presets.
+[15/01/2023 05:06:59] :: INFO :: Creating Buttons.
+[15/01/2023 05:07:01] :: INFO :: Run Button Pressed.
+[15/01/2023 05:07:01] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:01] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:01] :: INFO :: Running.
+[15/01/2023 05:07:08] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:08] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:08] :: INFO :: Running.
+[15/01/2023 05:07:34] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:07:34] :: INFO :: Fetching Presets.
+[15/01/2023 05:07:34] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:07:34] :: INFO :: Initialising Grid.
+[15/01/2023 05:07:34] :: INFO :: Fetching Presets.
+[15/01/2023 05:07:34] :: INFO :: Creating Buttons.
+[15/01/2023 05:07:36] :: INFO :: Run Button Pressed.
+[15/01/2023 05:07:36] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:36] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:36] :: INFO :: Running.
+[15/01/2023 05:07:44] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:44] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:44] :: INFO :: Running.
+[15/01/2023 05:07:50] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:50] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:50] :: INFO :: Running.
+[15/01/2023 05:07:56] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:56] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:07:56] :: INFO :: Running.
+[15/01/2023 05:10:10] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:10:10] :: INFO :: Fetching Presets.
+[15/01/2023 05:10:10] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:10:10] :: INFO :: Initialising Grid.
+[15/01/2023 05:10:10] :: INFO :: Fetching Presets.
+[15/01/2023 05:10:10] :: INFO :: Creating Buttons.
+[15/01/2023 05:10:12] :: INFO :: Run Button Pressed.
+[15/01/2023 05:10:12] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:10:12] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:10:12] :: INFO :: Running.
+[15/01/2023 05:11:28] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:11:28] :: INFO :: Fetching Presets.
+[15/01/2023 05:11:28] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:11:28] :: INFO :: Initialising Grid.
+[15/01/2023 05:11:28] :: INFO :: Fetching Presets.
+[15/01/2023 05:11:28] :: INFO :: Creating Buttons.
+[15/01/2023 05:11:29] :: INFO :: Run Button Pressed.
+[15/01/2023 05:11:30] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:11:30] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:11:30] :: INFO :: Running.
+[15/01/2023 05:11:37] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:11:37] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:11:37] :: INFO :: Running.
+[15/01/2023 05:11:43] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:11:43] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:11:43] :: INFO :: Running.
+[15/01/2023 05:12:30] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:12:30] :: INFO :: Fetching Presets.
+[15/01/2023 05:12:30] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:12:30] :: INFO :: Initialising Grid.
+[15/01/2023 05:12:30] :: INFO :: Fetching Presets.
+[15/01/2023 05:12:30] :: INFO :: Creating Buttons.
+[15/01/2023 05:12:32] :: INFO :: Run Button Pressed.
+[15/01/2023 05:12:32] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:12:32] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:12:32] :: INFO :: Running.
+[15/01/2023 05:12:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:12:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:12:39] :: INFO :: Running.
+[15/01/2023 05:12:45] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:12:45] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:12:45] :: INFO :: Running.
+[15/01/2023 05:13:36] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:13:36] :: INFO :: Fetching Presets.
+[15/01/2023 05:13:36] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:13:36] :: INFO :: Initialising Grid.
+[15/01/2023 05:13:36] :: INFO :: Fetching Presets.
+[15/01/2023 05:13:36] :: INFO :: Creating Buttons.
+[15/01/2023 05:13:39] :: INFO :: Run Button Pressed.
+[15/01/2023 05:13:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:13:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:13:39] :: INFO :: Running.
+[15/01/2023 05:13:46] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:13:46] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:13:46] :: INFO :: Running.
+[15/01/2023 05:14:18] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:14:18] :: INFO :: Fetching Presets.
+[15/01/2023 05:14:18] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:14:18] :: INFO :: Initialising Grid.
+[15/01/2023 05:14:18] :: INFO :: Fetching Presets.
+[15/01/2023 05:14:18] :: INFO :: Creating Buttons.
+[15/01/2023 05:14:20] :: INFO :: Run Button Pressed.
+[15/01/2023 05:14:20] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:14:20] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:14:20] :: INFO :: Running.
+[15/01/2023 05:14:27] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:14:27] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:14:27] :: INFO :: Running.
+[15/01/2023 05:14:34] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:14:34] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:14:34] :: INFO :: Running.
+[15/01/2023 05:16:00] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:16:01] :: INFO :: Fetching Presets.
+[15/01/2023 05:16:01] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:16:01] :: INFO :: Initialising Grid.
+[15/01/2023 05:16:01] :: INFO :: Fetching Presets.
+[15/01/2023 05:16:01] :: INFO :: Creating Buttons.
+[15/01/2023 05:16:02] :: INFO :: Run Button Pressed.
+[15/01/2023 05:16:02] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:16:02] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:16:02] :: INFO :: Running.
+[15/01/2023 05:16:09] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:16:09] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:16:09] :: INFO :: Running.
+[15/01/2023 05:16:26] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:16:26] :: INFO :: Fetching Presets.
+[15/01/2023 05:16:26] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:16:26] :: INFO :: Initialising Grid.
+[15/01/2023 05:16:26] :: INFO :: Fetching Presets.
+[15/01/2023 05:16:26] :: INFO :: Creating Buttons.
+[15/01/2023 05:16:28] :: INFO :: Run Button Pressed.
+[15/01/2023 05:16:28] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:16:28] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:16:28] :: INFO :: Running.
+[15/01/2023 05:17:10] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:17:10] :: INFO :: Fetching Presets.
+[15/01/2023 05:17:10] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:17:10] :: INFO :: Initialising Grid.
+[15/01/2023 05:17:10] :: INFO :: Fetching Presets.
+[15/01/2023 05:17:10] :: INFO :: Creating Buttons.
+[15/01/2023 05:17:12] :: INFO :: Run Button Pressed.
+[15/01/2023 05:17:12] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:12] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:12] :: INFO :: Running.
+[15/01/2023 05:17:19] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:19] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:19] :: INFO :: Running.
+[15/01/2023 05:17:30] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:17:30] :: INFO :: Fetching Presets.
+[15/01/2023 05:17:30] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:17:30] :: INFO :: Initialising Grid.
+[15/01/2023 05:17:30] :: INFO :: Fetching Presets.
+[15/01/2023 05:17:30] :: INFO :: Creating Buttons.
+[15/01/2023 05:17:33] :: INFO :: Run Button Pressed.
+[15/01/2023 05:17:33] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:33] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:33] :: INFO :: Running.
+[15/01/2023 05:17:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:39] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:17:39] :: INFO :: Running.
+[15/01/2023 05:18:50] :: INFO :: Successfully retrieved config.
+[15/01/2023 05:18:50] :: INFO :: Fetching Presets.
+[15/01/2023 05:18:50] :: INFO :: ==| Starting Application |==
+[15/01/2023 05:18:50] :: INFO :: Initialising Grid.
+[15/01/2023 05:18:50] :: INFO :: Fetching Presets.
+[15/01/2023 05:18:50] :: INFO :: Creating Buttons.
+[15/01/2023 05:18:52] :: INFO :: Run Button Pressed.
+[15/01/2023 05:18:52] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:18:52] :: INFO :: Successfully parsed inputs.
+[15/01/2023 05:18:52] :: INFO :: Running.

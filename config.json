@@ -2,6 +2,6 @@
     "title": "KeyRepeat",
     "icon": "favicon.png",
     "MIN_WIDTH": 500,
-    "MIN_HEIGHT": 100,
+    "MIN_HEIGHT": 50,
     "pin_to_top": "True"
 }
