@@ -20,6 +20,17 @@ OUTPUT.txt log file.
 
 ======== Usage =========
 
+Note: Whilst you can record key and mouse inputs simultaniously,
+the following are disallowed:
+  .Shortcuts
+  .Mouse hragging
+  .Mouse holding
+ 
+For example, this would make sprinting in games that require Shitft + W
+impossible.
+
+These features will be possible in the near future.
+
 Recording:
   1) Launch the main.py file.
   2) Press "record" and input your macro.
