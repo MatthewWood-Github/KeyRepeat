@@ -1,5 +1,7 @@
 import os
 
+import time
+
 import logging
 import json
 
@@ -75,10 +77,13 @@ scripts = parse_script_options()
 
 def record_program():
     logging.info("Record Button Pressed.")
+    root.title((settings["title"] + " (Recording)"))
     record.start(preset_field_text.get())
+    root.title(settings["title"])
 
 def run_program():
     logging.info("Run Button Pressed.")
+    root.title((settings["title"] + " (Running)"))
     running = False
     keyboard_listener = KeyboardListener(on_release=on_release)
     keyboard_listener.start()
@@ -90,6 +95,7 @@ def run_program():
             break
 
     keyboard_listener.join()
+    root.title(settings["title"])
 
 def on_release(key):
     global running

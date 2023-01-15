@@ -23,10 +23,10 @@ current_key = None
 
 MAX_WAIT_TIME = 1200
 
-key_idle_start = time.time()
+key_idle_start = 0
 key_idle_stop = 0
 
-mouse_idle_start = time.time()
+mouse_idle_start = 0
 mouse_idle_stop = 0
 
 current_mouse_button = None
@@ -118,10 +118,12 @@ class Button:
         self.is_button_pressed = False
 
 def start(filename):
-    global PRESET_FILE, mouse_listener
+    global PRESET_FILE, mouse_listener, mouse_idle_start, key_idle_start
     logging.info("Recording.")
 
     PRESET_FILE = f"Scripts/{filename}"
+    mouse_idle_start = time.time()
+    key_idle_start = time.time()
 
     keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
     keyboard_listener.start()

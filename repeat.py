@@ -54,7 +54,7 @@ def repeat_keyboard(data):
         if RUNNING is False:
             break
         if command[0] == "key_press":
-            if command[0] == "esc":
+            if command[1] == "esc":
                 continue
             keyboard.press(command[1])
             time.sleep(float(command[2]))
