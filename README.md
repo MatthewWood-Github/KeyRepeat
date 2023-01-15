@@ -23,7 +23,7 @@ OUTPUT.txt log file.
 Note: Whilst you can record key and mouse inputs simultaniously,
 the following are disallowed:
   .Shortcuts
-  .Mouse hragging
+  .Mouse dragging
   .Mouse holding
  
 For example, this would make sprinting in games that require Shitft + W
