@@ -1,5 +1,5 @@
 KeyRepeat Version 1.0a
-Author: https://github.com/MatthewWood-Github
+Author: https://github.com/mw-wood
 
 ========== Description ===========
 
