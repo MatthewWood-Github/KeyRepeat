@@ -3,7 +3,7 @@ Author: https://github.com/mw-wood
 
 ========== Description ===========
 
-A program to record and repeat a set of given inputs.
+A multi-threaded program to record and repeat a set of given inputs.
 
 ========== Motivation ===========
 
