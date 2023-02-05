@@ -66,3 +66,12 @@ Programming:
 .Logging
 .Input automation
 .Image recognition
+
+TODO:
+
+.Image recognition
+.file explorer to select image and presets
+.shortcuts
+.mouse drag
+.mouse hold
+.UI to build script rather than txt file
